@@ -1,0 +1,10 @@
+Bài Tập Tổng kết xưởng:
+1, Xây dựng CSDL gồm những bảng sau:
++ Bảng Danh mục sách: id, tên danh mục, trạng thái (1: Đang hoạt động, 0: Dừng hoạt động)
++ Bảng Sách: id, tên sách, giá, hình ảnh, năm xuất bản, tác giả, id danh mục, trạng thái (1: Đang hoạt động, 0: Dừng hoạt động)
++ Bảng Người dùng: id, tên, email, password, trạng thái (1: Đang hoạt động, 0: Dừng hoạt động)
+2, Thực hiện các tính năng sau:
++ Thực hiện chức năng đăng ký/ đăng nhập
++ Thực hiện chức năng hiển thị, thêm, sửa, xóa cho 3 bảng trên
+Chú ý : Các bạn làm giao diện dạng trang admin và bảng nhé.
+Hạn nộp: Thứ 5 ngày 25/01/2024 nhé.
